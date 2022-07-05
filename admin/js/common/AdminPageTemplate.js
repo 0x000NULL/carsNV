@@ -4,7 +4,7 @@ class AdminPageTemplate {
     let currentYear = (new Date().getYear()) + "";
     return `<footer class="templatemo-footer">   
                <div class="templatemo-copyright">   
-               <p>Copyright  @20${currentYear.substr(1)} AutoExpress.co.nf - Raymart De Guzman</p>   
+               <p>Copyright  @20${currentYear.substr(1)} CarsNV.co.nf - Raymart De Guzman</p>   
                </div>   
             </footer>`;
   }
